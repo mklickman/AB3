@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
-  "name": "Scroll Unlocker",
-  "version": "1.2",
-  "description": "Removes fullscreen fixed overlays and restores scrolling.",
+  "name": "Ad Blocker Blocker Blocker (AB3)",
+  "version": "1.0",
+  "description": "It looks like you're using an ad blocker. Which is totally fine.",
   "permissions": ["scripting", "activeTab"],
   "action": {
     "default_icon": "icon.png",
-    "default_title": "Unlock Scroll"
+    "default_title": "Unblock ad blocker"
   },
   "background": {
     "service_worker": "background.js"
